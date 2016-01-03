@@ -57,13 +57,13 @@ text-align:center;
 
 }
 .jumbotron h2{
-font-family: 'Indie Flower', cursive; font-weight: 400;
+font-family: 'Indie Flower', cursive; font-weight: 400;font-size:64px;
 }
 .jumbotron p{
-font-family: 'Poiret One', cursive; font-weight: 400;
+font-family: 'Poiret One', cursive; font-weight: 400;font-size:64px;
 }
 .jumbotron h1{
-font-family: 'Pacifico', cursive; font-weight: 400;
+font-family: 'Pacifico', cursive; font-weight: 400;font-size:64px;
 }
 .fun-facts p{
 text-align: center;
