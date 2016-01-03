@@ -45,4 +45,5 @@ background-color: #00ff99;
 }
 .nav li {
   display: inline;
+	text-align:justified;
 }
