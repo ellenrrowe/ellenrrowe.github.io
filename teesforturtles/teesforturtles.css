@@ -48,3 +48,15 @@ background-color: #00ff99;
   display: inline;
 	
 }
+.home p{
+text-align:justify;
+
+}
+.new-designs p{
+text-align:center;
+
+}
+p.italic{
+	font-style: italic
+
+}
