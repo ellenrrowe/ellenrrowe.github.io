@@ -50,5 +50,6 @@ background-color: #00ff99;
 }
 .nav{
 background-color:#d6d6c2;
-
+background-repeat: no-repeat;
+  background-size: cover;
 }
