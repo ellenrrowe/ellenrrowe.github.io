@@ -3,14 +3,14 @@ background-color: #00ff99;
 
 }
 .jumbotron {
-  background-image:url('images/bcquote.jpg');
+  background-image:url('images/jumbodude.jpg');
   height: 447px;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .quotes .container {
 
-	background: url('images/jumbodude.jpg');
+	background: url('images/bcquote.jpg');
 	height: 447px;
 	background-repeat: no-repeat;
 	background-size:cover;
