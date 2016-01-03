@@ -56,7 +56,12 @@ text-align:justify;
 text-align:center;
 
 }
-p.italic{
-	font-style: italic;
-
+.jumbotron h2{
+font-family: 'Indie Flower', cursive; font-weight: 400;
+}
+.jumbotron p{
+font-family: 'Poiret One', cursive; font-weight: 400;
+}
+.jumbotron h1{
+font-family: 'Pacifico', cursive; font-weight: 400;
 }
