@@ -41,5 +41,8 @@ background-color: #00ff99;
 }
 .nav a {
 	text-decoration: none;
-
+	text-transform:uppercase;
+}
+.nav li {
+  display: inline;
 }
