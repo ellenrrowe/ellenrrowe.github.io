@@ -42,8 +42,9 @@ background-color: #00ff99;
 .nav a {
 	text-decoration: none;
 	text-transform:uppercase;
+	text-align:justify
 }
 .nav li {
   display: inline;
-	text-align:justified;
+	
 }
