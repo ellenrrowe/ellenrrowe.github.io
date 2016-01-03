@@ -69,3 +69,9 @@ font-family: 'Pacifico', cursive; font-weight: 400;font-size:64px;
 text-align: center;
 
 }
+.fun-facts p{
+	background: url('images/funfactpic');
+	height: 447px;
+	background-repeat: no-repeat;
+	background-size:cover;
+}
