@@ -1,9 +1,7 @@
 body{
 background-color: #00ff99;
 }
-.nav a{
-	color:#000000;
-}
+
 .home a{
 	color:#000000;
 
@@ -39,14 +37,9 @@ background-color: #00ff99;
 	text-align:center;
 
 }
-.nav a {
-	text-decoration: none;
-	text-transform:uppercase;
 	
 }
-.nav li {
-  display: inline;
-	
+
 }
 .home p{
 text-align:justify;
@@ -69,9 +62,37 @@ font-family: 'Pacifico', cursive; font-weight: 400;font-size:64px;
 text-align: center;
 
 }
-.fun-facts p{
-	background: url('images/funfactpic');
-	height: 447px;
-	background-repeat: no-repeat;
-	background-size:cover;
+.home p{
+text-indent: 50px;
+}
+
+
+nav. ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #d6d6c2;
+}
+
+nav. li {
+    float: left;
+}
+
+nav. a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+nav. a:hover {
+    background-color: #111;
+}
+nav. ul {
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
