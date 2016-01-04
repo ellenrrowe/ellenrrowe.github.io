@@ -51,12 +51,15 @@ text-align:center;
 }
 .jumbotron h2{
 font-family: 'Indie Flower', cursive; font-weight: 400;font-size:64px;
+color:white;
 }
 .jumbotron p{
 font-family: 'Poiret One', cursive; font-weight: 400;font-size:64px;
+color:white;
 }
 .jumbotron h1{
 font-family: 'Pacifico', cursive; font-weight: 400;font-size:64px;
+color:white;
 }
 .fun-facts p{
 text-align: center;
@@ -96,3 +99,37 @@ text-indent: 50px;
     top: 0;
     width: 100%;
 }
+.about h2{
+
+text-align:center;
+
+}
+.about p{
+text-align:justify; 
+text-indent: 50px;
+}
+.shop{
+
+text-align:center;
+}
+.turtle-facts h2{
+text-align:center;
+
+}
+.turtle-facts a{
+color:#000000;
+}
+.how-we-help h2{
+text-align:center;
+}
+.how-we-help p{
+text-align:justify;
+text-indent: 50px;
+}
+.how-we-help a{
+color:#000000;
+}
+.contact h2{
+text-align:center;
+}
+
