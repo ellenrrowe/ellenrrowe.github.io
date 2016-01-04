@@ -8,6 +8,7 @@ background-color: #00ff99;
 }
 .jumbotron {
   background-image:url('images/jumbodude.jpg');
+  height:447px;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -18,7 +19,8 @@ background-color: #00ff99;
 	height: 447px;
 	background-repeat: no-repeat;
 	background-size:cover;
-
+	color:white;
+	text-align:center;
 }
 .home h2{
 	text-align: center;
