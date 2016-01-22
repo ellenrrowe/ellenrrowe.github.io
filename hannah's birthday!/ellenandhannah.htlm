@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+ <head>
+<link rel="stylesheet" type="text/css" href="ellenandhannah.css">
+</head>
+ <body>
+  
+<div class="nav">
+   <div class"container">
+     <ul>
+	<li><a href="index.html">Happy Birthday</a></li>
+	<li><a href="locker.html">Locker</a></li>
+	<li><a href="ellenandhannah.htlm">Our Friendship</a></li>
+
+      </ul>
+    </div>
+    </div>
+   </div>
+<div class="jumbotron">
+      <div class="container">
+     <p>Ellen and Hannah's friendship started at an early age, when their mom's would take them to various playgrounds...</p>
+	<img src="playground.jpg">
+<p> ...and they would also go to IHOP for pancakes for their birthdays!</p>
+      <img src="pancakes.jpg">
+<p>If you fast foward ALOT past Kindergarden, we get to sixth grade, the year they started being really close friends. They starred as the hosts of the 2014 variety show, and sung "I Just Can't Wait to be King"! </p>
+	<img src="lionking.jpg">
+<p>On Valintines day they had a HUGE bake sale, and raised over $200 for No Kid Hungry!</p>
+<img src="bakesale.jpg">
+<p>They also wrote and starred in a play called The Unamed Play (well, they're still working on it). That summer they worked on their two people newsical, "Newsies". </p>
+<img src="newsies.jpg">
+<p>Now they spend alot of time together as almost teenagers, host "The Ellen and Hannah Show", and still love baking together.</p>
+<img src="cupcakes.jpg">
+<p>They will also be starring as Elphaba and Galinda in the song Popular from Wicked at Family Fine Arts Night!</p>
+<img src="popular.jpg">
+</div>
+  
+</body>
