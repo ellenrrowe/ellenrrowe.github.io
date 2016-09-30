@@ -7117,4 +7117,7 @@ td.visible-print {
   td.hidden-print {
     display: none !important;
   }
+p {
+    text-indent: 50px;
+}
 }
